@@ -8,7 +8,6 @@ var prizes = [
     { text: "Gấu bông", img: "images/gaubong.png", percentpage: 0.00 },
     { text: "Check in nhận quà", img: "images/gift_Y.png", percentpage: 0.10 },
     { text: "Balo ITC", img: "images/balo.png", percentpage: 0.00 },
-    { text: "Balo ITC", img: "images/balo.png", percentpage: 0.00 },
 ];
 
 // 2. Hàm tính toán tỉ lệ trúng giải
